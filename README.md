@@ -1,5 +1,5 @@
 # Hi there, I'm Doan Quoc Bao 👋
-**AI / Machine Learning Engineer | Data Scientist**
+**AI / Machine Learning Engineer | Data Scientist | Data Analyst**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-doanquocbao.cap%40gmail.com-red?style=flat-square&logo=gmail)](mailto:doanquocbao.cap@gmail.com)
@@ -39,7 +39,7 @@
 
 * **A Survey on Challenges and Emerging Frontiers of Multi-Agent Systems 2025**  
   *Published in the 14th International Symposium on Information and Communication Technology (SOICT 2025)*  
-  [Paper Link / DOI](#) • Focus on distributed AI frameworks and multi-agent interaction paradigms.
+  [Paper Link](https://orbilu.uni.lu/bitstream/10993/66350/1/SOICT__Multiple_Agent__final_.pdf) • Focus on distributed AI frameworks and multi-agent interaction paradigms.
 
 ---
 
