@@ -31,7 +31,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **AI/ML Concepts**  
-`Supervised Learning` • `Reinforcement Learning` • `Graph-based Models` • `Ranking Metrics (HitRate@K, MRR@K)` • `A/B Testing`
+`Supervised Learning` • `Unsupervised Learning` • `Reinforcement Learning` • `Deep Learning` • `Graph-based Models`
 
 ---
 
