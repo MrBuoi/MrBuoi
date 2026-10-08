@@ -20,15 +20,15 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
 
 <table>
 	<tr>
-		<td>🔬 <strong>Research interests</strong></td>
+		<td>🧑🏻‍💻 <strong>Research interests</strong></td>
 		<td>Deep Learning, Machine Learning, Computer Vision, Large Language Model</td>
 	</tr>
 	<tr>
-		<td>⚙️ <strong>Engineering focus</strong></td>
+		<td>🧑🏻‍🚀 <strong>Engineering focus</strong></td>
 		<td>Reproducible Pipelines, Model Building and Testing</td>
 	</tr>
 	<tr>
-		<td>📜 <strong>Publication</strong></td>
+		<td>👨🏻‍🏫 <strong>Publication</strong></td>
 		<td>Co-author of a research survey accepted at SOICT 2025</td>
 	</tr>
 	<tr>
@@ -39,7 +39,7 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
 
 ---
 
-## 🛠️ Technical Arsenal
+## ✈️ Programming Skills
 
 <div align="center">
 
@@ -66,7 +66,7 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
 
 ---
 
-## 📄 Selected Publication
+## 📚 Selected Publication
 
 ### A Survey of Challenges and Emerging Frontiers in Multi-Agent Systems
 
@@ -77,7 +77,7 @@ Focus: distributed AI frameworks and multi-agent interaction paradigms.
 
 ---
 
-## 🚀 Featured Projects
+## 💸 Featured Projects
 
 <table>
 	<tr>
