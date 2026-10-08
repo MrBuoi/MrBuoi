@@ -1,16 +1,8 @@
-<div align="center">
-
 # 👋 Hi there, I'm Doan Quoc Bao (MrBuoi)
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4084F6&center=true&vCenter=true&width=650&lines=Data+Scientist;Machine+Learning+Engineer;AI+Researcher" alt="Typing introduction" /></a>
+![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=650&lines=Data+Science+Student%3BMachine+Learning+Engineer%3BAI+Researcher%3BBuilding+reproducible+ML+systems)
 
-<br />
-
-`<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />``</a>`
-`<a href="mailto:doanquocbao.cap@gmail.com"><img src="https://img.shields.io/badge/Email-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />``</a>`
-`<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />``</a>`
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) [![Email](https://img.shields.io/badge/Email-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doanquocbao.cap@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 ---
 
 ## 👨‍💻 About Me
