@@ -50,6 +50,7 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
 
 <img src="https://skillicons.dev/icons?i=docker,git,latex" alt="MLOps and DevOps tools" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Hihi" />
 
 ### Cloud & Data Platforms
 
