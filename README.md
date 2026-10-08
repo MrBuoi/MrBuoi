@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand" /> Hi there, I'm Doan Quoc Bao
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F76D84&center=true&vCenter=true&width=650&lines=Data+Scientist%3BData+Analyst%3BAI+Engineering" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1700&pause=300&color=F76D84&center=true&vCenter=true&width=650&lines=Data+Scientist%3BData+Analyst%3BAI+Engineering" alt="Typing introduction" />
 
 <br />
 
