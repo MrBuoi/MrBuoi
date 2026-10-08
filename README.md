@@ -20,19 +20,19 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
 
 <table>
 	<tr>
-		<td>🧑🏻‍💻 <strong>Research interests</strong></td>
+		<td> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/eyes_1f440.gif" width="26" alt="Eyes" /> <strong>Research interests</strong></td>
 		<td>Deep Learning, Machine Learning, Computer Vision, Large Language Model</td>
 	</tr>
 	<tr>
-		<td>🧑🏻‍🚀 <strong>Engineering focus</strong></td>
+		<td> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="26" alt="Rocket" /> <strong>Engineering focus</strong></td>
 		<td>Reproducible Pipelines, Model Building and Testing</td>
 	</tr>
 	<tr>
-		<td>👨🏻‍🏫 <strong>Publication</strong></td>
+		<td> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="26" alt="Robot" /> <strong>Publication</strong></td>
 		<td>Co-author of a research survey accepted at SOICT 2025</td>
 	</tr>
 	<tr>
-		<td>📍 <strong>Based in</strong></td>
+		<td> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/star-struck_1f929.gif" width="26" alt="Star struck" /> <strong>Based in</strong></td>
 		<td>Hanoi, Vietnam</td>
 	</tr>
 </table>
@@ -66,7 +66,7 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
 
 ---
 
-## 📚 Selected Publication
+## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/sparkles_2728.gif" width="26" alt="Sparkles" />  Selected Publication
 
 ### A Survey of Challenges and Emerging Frontiers in Multi-Agent Systems
 
@@ -77,12 +77,12 @@ Focus: distributed AI frameworks and multi-agent interaction paradigms.
 
 ---
 
-## 💸 Featured Projects
+## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="26" alt="Rocket" /> Featured Projects
 
 <table>
 	<tr>
 		<td width="50%" valign="top">
-			<h3>🔗 Diginetica Session-based Recommendation Engine</h3>
+			<h3><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/sparkling-heart_1f496.gif" width="26" alt="Sparkling heart" /> Diginetica Session-based Recommendation Engine</h3>
 			<p>End-to-end recommendation pipeline using graph-based representations and session dynamics.</p>
 			<ul>
 				<li>Designed graph-structured representations of user session transitions.</li>
@@ -92,7 +92,7 @@ Focus: distributed AI frameworks and multi-agent interaction paradigms.
 			<a href="https://github.com/"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository" /></a>
 		</td>
 		<td width="50%" valign="top">
-			<h3>📈 Predictive Modeling &amp; Feature Engineering Pipeline</h3>
+			<h3> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/hot-beverage_2615.gif" width="26" alt="Coffee" /> Predictive Modeling &amp; Feature Engineering Pipeline</h3>
 			<p>Automated preprocessing and regression validation framework for high-dimensional tabular data.</p>
 			<ul>
 				<li>Handled imputation, categorical encoding, and multivariate outlier detection to avoid leakage.</li>
@@ -122,7 +122,7 @@ Focus: distributed AI frameworks and multi-agent interaction paradigms.
 
 <div align="center">
 
-### 💡 Turning data into decisions and ideas into intelligent systems
+### <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/light-bulb_1f4a1.gif" width="26" alt="Light bulb" /> Turning data into decisions and ideas into intelligent systems
 
 <a href="mailto:doanquocbao.cap@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-3776AB?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's connect" /></a>
 
