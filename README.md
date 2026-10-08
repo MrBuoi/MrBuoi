@@ -60,7 +60,7 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
 <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="40" alt="Apache Spark" />
 <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="Kafka" />
 
-### AI/ML Concepts
+### Artificial Intelligence/Machine Learning Concepts
 
 `Machine Learning` · `Deep Learning` · `Computer Vision` · `Natural Language Processing` 
 
