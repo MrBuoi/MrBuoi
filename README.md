@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Doan Quoc Bao
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0000F7&center=true&vCenter=true&width=650&lines=Data+Scientist%3BMachine+Learning+Engineer%3BAI+Researcher" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=036CB0&center=true&vCenter=true&width=650&lines=Data+Scientist%3BMachine+Learning+Engineer%3BAI+Researcher" alt="Typing introduction" />
 
 <br />
 
