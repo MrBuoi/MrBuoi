@@ -6,9 +6,9 @@
 
 <br />
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:doanquocbao.cap@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://maps.google.com"><img src="https://img.shields.io/badge/Location-Hanoi%2C%20Vietnam-555555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
+`<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />``</a>`
+`<a href="mailto:doanquocbao.cap@gmail.com"><img src="https://img.shields.io/badge/Email-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />``</a>`
+`<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />``</a>`
 
 </div>
 
