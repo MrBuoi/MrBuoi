@@ -11,9 +11,6 @@
 <a href="https://github.com/MrBuoi"><img src="https://img.shields.io/static/v1?message=GITHUB&label=&color=0A2113&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.google.com/maps/search/?api=1&query=Hanoi%2C%20Vietnam"><img src="https://img.shields.io/static/v1?message=H%C3%80%20N%E1%BB%98I%2C%20VI%E1%BB%86T%20NAM&label=&color=34A853&style=for-the-badge&logo=googlemaps&logoColor=white" alt="Hà Nội, Việt Nam" /></a>
 </div>
-<div align="center">
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="600" alt="Coding animation" />
-</div>
 
 ---
 
