@@ -41,7 +41,7 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
 
 ---
 
-## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="26" alt="Fire" /> Programming Skills <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="26" alt="Fire" />
+## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="26" alt="Fire" />Programming Skills<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="26" alt="Fire" />
 
 <div align="center">
 
