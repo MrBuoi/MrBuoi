@@ -44,9 +44,7 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
 
 ### Languages, Data & Machine Learning
 
-<img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="Jupyter" />
-<img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="SQL" />
-<img src="https://skillicons.dev/icons?i=python,postgres,pytorch,sklearn,pandas,mysql" alt="Languages and machine learning tools" />
+<img src="https://skillicons.dev/icons?i=python,postgres,pytorch,sklearn,mysql" alt="Languages and machine learning tools" />
 
 ### MLOps, DevOps & Analytics
 
