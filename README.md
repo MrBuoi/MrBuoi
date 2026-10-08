@@ -14,7 +14,7 @@
 
 ---
 
-## 🧭 About Me
+## 👨‍💻 About Me
 
 I am an **undergraduate student in Data Science in Economics and Business** at **National Economics University (NEU)** with a GPA of **8.5/10**. I am interested in building reliable machine learning systems and exploring how intelligent agents can collaborate in complex environments.
 
@@ -36,29 +36,6 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
     <td>Hanoi, Vietnam</td>
   </tr>
 </table>
-
----
-
-## 🛠️ Technical Arsenal
-
-<div align="center">
-
-### Languages & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,postgres,pytorch,sklearn,pandas,numpy" alt="Languages and machine learning tools" />
-
-### MLOps, DevOps & Analytics
-
-<img src="https://skillicons.dev/icons?i=docker,git,latex" alt="MLOps and DevOps tools" />
-&nbsp;
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-
-### AI/ML Concepts
-
-`Supervised Learning` · `Unsupervised Learning` · `Reinforcement Learning` · `Deep Learning` · `Graph-based Models`
-
-</div>
-
 ---
 
 ## 📄 Selected Publication
