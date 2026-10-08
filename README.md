@@ -51,6 +51,12 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
 <img src="https://skillicons.dev/icons?i=docker,git,latex" alt="MLOps and DevOps tools" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
 
+### Cloud & Data Platforms
+
+<img src="https://cdn.simpleicons.org/databricks/EF3E42" height="40" alt="Databricks" />
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="40" alt="Apache Spark" />
+<img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="Kafka" />
+
 ### AI/ML Concepts
 
 `Supervised Learning` · `Unsupervised Learning` · `Reinforcement Learning` · `Deep Learning` · `Graph-based Models`
