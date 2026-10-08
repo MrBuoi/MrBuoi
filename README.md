@@ -6,7 +6,7 @@
 
 <br />
 
-<a href="[www.linkedin.com/in/bảo-quốc-2516a7297](https://www.linkedin.com/in/b%E1%BA%A3o-qu%E1%BB%91c-2516a7297/)"><img src="https://img.shields.io/static/v1?message=LINKEDIN&label=&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/mrnationaltreasure/"><img src="https://img.shields.io/static/v1?message=LINKEDIN&label=&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:doanquocbao.cap@gmail.com"><img src="https://img.shields.io/static/v1?message=EMAIL&label=&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="[https://github.com](https://github.com/MrBuoi)"><img src="https://img.shields.io/static/v1?message=GITHUB&label=&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
