@@ -66,7 +66,7 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
 
 ---
 
-## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/sparkles_2728.gif" width="26" alt="Sparkles" />  Selected Publication
+## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/sparkles_2728.gif" width="26" alt="Sparkles" /> Publication
 
 ### A Survey of Challenges and Emerging Frontiers in Multi-Agent Systems
 
