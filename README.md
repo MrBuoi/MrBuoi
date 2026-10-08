@@ -104,7 +104,6 @@ Focus: distributed AI frameworks and multi-agent interaction paradigms.
 	</tr>
 </table>
 
-<div align="center">
 
 ## 🌓 Marginalia on Finitude
 
@@ -120,7 +119,6 @@ Focus: distributed AI frameworks and multi-agent interaction paradigms.
 	</tr>
 </table>
 
----
 
 <div align="center">
 
