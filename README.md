@@ -6,25 +6,25 @@
 
 <br />
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/static/v1?message=LINKEDIN&label=&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="www.linkedin.com/in/bảo-quốc-2516a7297"><img src="https://img.shields.io/static/v1?message=LINKEDIN&label=&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:doanquocbao.cap@gmail.com"><img src="https://img.shields.io/static/v1?message=EMAIL&label=&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/"><img src="https://img.shields.io/static/v1?message=GITHUB&label=&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="[https://github.com](https://github.com/MrBuoi)"><img src="https://img.shields.io/static/v1?message=GITHUB&label=&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 ---
 
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="32" alt="Coding" />  About Me
 
-I am an **undergraduate student in Data Science in Economics and Business** at **National Economics University (NEU)** with a GPA of **8.5/10**. I am interested in building reliable machine learning systems and exploring how intelligent agents can collaborate in complex environments.
+I am an **undergraduate student in Data Science in Economics and Business** at **National Economics University (NEU)** with a GPA of **8.5/10**. I am interested in building reliable machine learning, deep learning systems and exploring how intelligent agents can collaborate in complex environments.
 
 <table>
 	<tr>
 		<td>🔬 <strong>Research interests</strong></td>
-		<td>Multi-Agent Reinforcement Learning, Graph-based Machine Learning, Distributed AI</td>
+		<td>Deep Learning, Machine Learning, Computer Vision, Large Language Model</td>
 	</tr>
 	<tr>
 		<td>⚙️ <strong>Engineering focus</strong></td>
-		<td>Reproducible ML pipelines, Dockerized applications, performance evaluation</td>
+		<td>Reproducible Pipelines, Model Building and Testing</td>
 	</tr>
 	<tr>
 		<td>📜 <strong>Publication</strong></td>
