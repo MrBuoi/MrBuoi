@@ -18,8 +18,7 @@
 
 <div align="center">
 
-I am an **undergraduate student in Data Science in Economics and Business** at **National Economics University (NEU)** with a GPA of **8.5/10**. I am interested in building reliable machine learning, deep learning systems and exploring how intelligent agents can collaborate in complex environments.
-
+I’m a final-year **Data Science in Economics and Business** student at **National Economics University (NEU)** with a GPA of ***8.5/10*** and early research experience in Multi-Agent Systems and hands-on exposure to ML pipelines and data processing. I am constantly seeking knowledge and experiences with an open, growth-oriented mindset, aiming to learn from seasoned mentors and hone my practical problem-solving skills.
 <table>
 	<tr>
 		<td> 🧑🏻‍💻 <strong>Research interests</strong></td>
