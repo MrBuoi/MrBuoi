@@ -86,26 +86,6 @@ Focus: distributed AI frameworks and multi-agent interaction paradigms.
 
 </div>
 
-### 🛠️ Tech Stack & Tooling
-
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**MLOps, DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-**AI/ML Concepts**  
-`Supervised Learning` • `Unsupervised Learning` • `Reinforcement Learning` • `Deep Learning` • `Graph-based Models`
-
----
-
 ### 📄 Selected Publication
 
 * **A Survey of Challenges and Emerging Frontiers in Multi-Agent Systems**  
