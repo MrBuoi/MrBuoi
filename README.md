@@ -1,13 +1,3 @@
-# Hi there, I'm Doan Quoc Bao 👋
-**Data Science Student | Machine Learning Engineer | Researcher**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-doanquocbao.cap%40gmail.com-red?style=flat-square&logo=gmail)](mailto:doanquocbao.cap@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Hanoi%2C%20Vietnam-lightgrey?style=flat-square)](https://maps.google.com)
-
-
-### 🚀 About Me
-
 <div align="center">
 
 # 👋 Hi there, I'm Doan Quoc Bao
