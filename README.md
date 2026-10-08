@@ -14,7 +14,7 @@
 
 ---
 
-## 🧭 About Me
+## 🧑🏻‍💻 About Me
 
 I am an **undergraduate student in Data Science in Economics and Business** at **National Economics University (NEU)** with a GPA of **8.5/10**. I am interested in building reliable machine learning systems and exploring how intelligent agents can collaborate in complex environments.
 
