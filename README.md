@@ -20,7 +20,7 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
 
 <table>
 	<tr>
-		<td> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/eyes_1f440.gif" width="24" alt="Eyes" /> <strong>Research interests</strong></td>
+		<td> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/eyes_1f440.gif" width="22" alt="Eyes" /> <strong>Research interests</strong></td>
 		<td>Deep Learning, Machine Learning, Computer Vision, Large Language Model</td>
 	</tr>
 	<tr>
