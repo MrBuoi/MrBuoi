@@ -68,7 +68,7 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
 
 ---
 
-## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/sparkles_2728.gif" width="26" alt="Sparkles" /> Publication
+## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/sparkles_2728.gif" width="26" alt="Sparkles" />Publication<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/sparkles_2728.gif" width="26" alt="Sparkles" />
 
 ### A Survey of Challenges and Emerging Frontiers in Multi-Agent Systems
 
@@ -79,7 +79,7 @@ Focus: distributed AI frameworks and multi-agent interaction paradigms.
 
 ---
 
-## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="26" alt="Rocket" /> Featured Projects
+## <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="26" alt="Rocket" />Featured Projects<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="26" alt="Rocket" />
 
 <table>
 	<tr>
@@ -124,7 +124,7 @@ Focus: distributed AI frameworks and multi-agent interaction paradigms.
 
 <div align="center">
 
-### <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/light-bulb_1f4a1.gif" width="26" alt="Light bulb" /> Turning data into decisions and ideas into intelligent systems
+### <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/light-bulb_1f4a1.gif" width="26" alt="Light bulb" />Turning data into decisions and ideas into intelligent systems<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/light-bulb_1f4a1.gif" width="26" alt="Light bulb" />
 
 <a href="mailto:doanquocbao.cap@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-3776AB?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's connect" /></a>
 
