@@ -20,19 +20,19 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
 
 <table>
 	<tr>
-		<td> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/eyes_1f440.gif" width="26" alt="Eyes" /> <strong>Research interests</strong></td>
+		<td> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/eyes_1f440.gif" width="24" alt="Eyes" /> <strong>Research interests</strong></td>
 		<td>Deep Learning, Machine Learning, Computer Vision, Large Language Model</td>
 	</tr>
 	<tr>
-		<td> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="26" alt="Rocket" /> <strong>Engineering focus</strong></td>
+		<td> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="24" alt="Rocket" /> <strong>Engineering focus</strong></td>
 		<td>Reproducible Pipelines, Model Building and Testing</td>
 	</tr>
 	<tr>
-		<td> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="26" alt="Robot" /> <strong>Publication</strong></td>
+		<td>  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/high-voltage_26a1.gif" width="24" alt="Lightning" /> <strong>Publication</strong></td>
 		<td>Co-author of a research survey accepted at SOICT 2025</td>
 	</tr>
 	<tr>
-		<td> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/star-struck_1f929.gif" width="26" alt="Star struck" /> <strong>Based in</strong></td>
+		<td>  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/globe-showing-europe-africa_1f30d.gif" width="24" alt="Globe" /> <strong>Based in</strong></td>
 		<td>Hanoi, Vietnam</td>
 	</tr>
 </table>
@@ -82,7 +82,7 @@ Focus: distributed AI frameworks and multi-agent interaction paradigms.
 <table>
 	<tr>
 		<td width="50%" valign="top">
-			<h3><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/sparkling-heart_1f496.gif" width="26" alt="Sparkling heart" /> Diginetica Session-based Recommendation Engine</h3>
+			<h3> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/robot_1f916.gif" width="24" alt="Robot" /> Diginetica Session-based Recommendation Engine</h3>
 			<p>End-to-end recommendation pipeline using graph-based representations and session dynamics.</p>
 			<ul>
 				<li>Designed graph-structured representations of user session transitions.</li>
@@ -92,7 +92,7 @@ Focus: distributed AI frameworks and multi-agent interaction paradigms.
 			<a href="https://github.com/"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository" /></a>
 		</td>
 		<td width="50%" valign="top">
-			<h3> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/hot-beverage_2615.gif" width="26" alt="Coffee" /> Predictive Modeling &amp; Feature Engineering Pipeline</h3>
+			<h3> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/hot-beverage_2615.gif" width="24" alt="Coffee" /> Predictive Modeling &amp; Feature Engineering Pipeline</h3>
 			<p>Automated preprocessing and regression validation framework for high-dimensional tabular data.</p>
 			<ul>
 				<li>Handled imputation, categorical encoding, and multivariate outlier detection to avoid leakage.</li>
