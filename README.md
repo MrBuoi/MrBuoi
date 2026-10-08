@@ -39,7 +39,7 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
 
 ---
 
-## ✈️ Programming Skills
+## 🛠️ Programming Skills
 
 <div align="center">
 
@@ -100,6 +100,24 @@ Focus: distributed AI frameworks and multi-agent interaction paradigms.
 			</ul>
 			<p><strong>Stack:</strong> Python · XGBoost · LightGBM · Scikit-learn · Interactive Dashboards</p>
 			<a href="https://github.com/"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository" /></a>
+		</td>
+	</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🌓 Marginalia on Finitude
+
+<table width="100%">
+	<tr>
+		<td align="center" bgcolor="#1B1C27">
+			<br />
+			<em><font color="#38C3BA" size="5">“No man ever steps in the same river twice, for it's not the same river and he's not the same man.”</font></em>
+			<br /><br />
+			<font color="#78A8FF" size="4"><em>- Heraclitus of Ephesus</em></font>
+			<br />
 		</td>
 	</tr>
 </table>
