@@ -20,19 +20,19 @@ I am an **undergraduate student in Data Science in Economics and Business** at *
 
 <table>
 	<tr>
-		<td> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/eyes_1f440.gif" width="22" alt="Eyes" /> <strong>Research interests</strong></td>
+		<td> 🧑🏻‍💻 <strong>Research interests</strong></td>
 		<td>Deep Learning, Machine Learning, Computer Vision, Large Language Model</td>
 	</tr>
 	<tr>
-		<td> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="24" alt="Rocket" /> <strong>Engineering focus</strong></td>
+		<td> 🛠️ <strong>Engineering focus</strong></td>
 		<td>Reproducible Pipelines, Model Building and Testing</td>
 	</tr>
 	<tr>
-		<td>  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/high-voltage_26a1.gif" width="24" alt="Lightning" /> <strong>Publication</strong></td>
+		<td> 📚 <strong>Publication</strong></td>
 		<td>Co-author of a research survey accepted at SOICT 2025</td>
 	</tr>
 	<tr>
-		<td>  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/globe-showing-europe-africa_1f30d.gif" width="24" alt="Globe" /> <strong>Based in</strong></td>
+		<td> 📍 <strong>Based in</strong></td>
 		<td>Hanoi, Vietnam</td>
 	</tr>
 </table>
