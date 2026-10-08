@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Doan Quoc Bao (MrBuoi)
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=#4084F6&center=true&vCenter=true&width=650&lines=Data+Scientist;Machine+Learning+Engineer;AI+Researcher" alt="Typing introduction" /></a>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4084F6&center=true&vCenter=true&width=650&lines=Data+Scientist;Machine+Learning+Engineer;AI+Researcher" alt="Typing introduction" /></a>
 
 <br />
 
